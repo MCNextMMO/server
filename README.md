@@ -1,5 +1,9 @@
-# server
+# MCNext – MMORPG Minecraft Server
 
-There is no code here. This repo is for READMEs, possibly libraries in the future, discussion in issues and wiki.
+## Abstract
 
-Keep track of progress in https://github.com/mcnextserver/server/issues
+A Massively Multiplayer Online Minecraft server that lets people play together without limits.
+
+## User Journey
+
+I would like to play Minecraft in a massively online server where I can build together with friends and play together with a global community.
